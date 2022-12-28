@@ -1,5 +1,5 @@
 [![Header](https://github.com/RomanVasil/RomanVasil/blob/main/assets/heder.png)](https://)
-## I'm a junior  QA Engineer.
+## I'm a beginner QA Engineer.
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1v7vlD57NcmSut81bdrZvQ0nc2NRj3yiV/view?usp=share_link)
@@ -13,7 +13,7 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=3ad07d)
 
 ### Testing Documentation
 
@@ -30,4 +30,4 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanVasil&show_icons=true&theme=radical)
