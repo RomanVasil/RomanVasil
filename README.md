@@ -17,17 +17,12 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://docs.google.com/spreadsheets/d/1CIfwsqKFLB_a03UxI3ha5YTBzUTQ296lz83jxziL_7s/edit?usp=share_link)
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/14MBTPPNuTVpOGzdjCGS936cecSyw7st1Wfl_MCStHTs/edit?usp=share_link)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/10YGPvzAKAMLE4QBkT74k1vbzGdi6eQhTZz9PiJZj5tU/edit?usp=share_link)
+- [SQL Queries](https://github.com/)
+- [Postman Collections](https://github.com/)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanVasil&show_icons=true&theme=radical)
